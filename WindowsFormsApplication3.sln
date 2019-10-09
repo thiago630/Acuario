@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boltycom", "WindowsFormsApplication3\Boltycom.csproj", "{80F524AD-34CA-43C7-BAB3-D4177F9331E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mylibreria", "Mylibreria\Mylibreria.csproj", "{4A19E4C8-47AF-47ED-A24E-AF7CA24FB20B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80F524AD-34CA-43C7-BAB3-D4177F9331E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80F524AD-34CA-43C7-BAB3-D4177F9331E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80F524AD-34CA-43C7-BAB3-D4177F9331E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80F524AD-34CA-43C7-BAB3-D4177F9331E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A19E4C8-47AF-47ED-A24E-AF7CA24FB20B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A19E4C8-47AF-47ED-A24E-AF7CA24FB20B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A19E4C8-47AF-47ED-A24E-AF7CA24FB20B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A19E4C8-47AF-47ED-A24E-AF7CA24FB20B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

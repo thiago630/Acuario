@@ -1,0 +1,673 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{80F524AD-34CA-43C7-BAB3-D4177F9331E0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication3</RootNamespace>
+    <AssemblyName>WindowsFormsApplication3</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Mylibreria">
+      <HintPath>..\Mylibreria\bin\Debug\Mylibreria.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.9.12.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bullets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bullets.Designer.cs">
+      <DependentUpon>Bullets.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cables.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cables.Designer.cs">
+      <DependentUpon>Cables.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CamaraIP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CamaraIP.Designer.cs">
+      <DependentUpon>CamaraIP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conectores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Conectores.Designer.cs">
+      <DependentUpon>Conectores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultarSensores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultarSensores.Designer.cs">
+      <DependentUpon>ConsultarSensores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultarBullets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultarBullets.Designer.cs">
+      <DependentUpon>ConsultarBullets.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultarCables.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultarCables.Designer.cs">
+      <DependentUpon>ConsultarCables.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultarConectores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultarConectores.Designer.cs">
+      <DependentUpon>ConsultarConectores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultarControlRemotos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultarControlRemotos.Designer.cs">
+      <DependentUpon>ConsultarControlRemotos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultarDomos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultarDomos.Designer.cs">
+      <DependentUpon>ConsultarDomos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultarIP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultarIP.Designer.cs">
+      <DependentUpon>ConsultarIP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultarPaneles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultarPaneles.Designer.cs">
+      <DependentUpon>ConsultarPaneles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultarProfesional.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultarProfesional.Designer.cs">
+      <DependentUpon>ConsultarProfesional.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultarSirenas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultarSirenas.Designer.cs">
+      <DependentUpon>ConsultarSirenas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultarTeclado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultarTeclado.Designer.cs">
+      <DependentUpon>ConsultarTeclado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas.Designer.cs">
+      <DependentUpon>Consultas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Contenedor principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contenedor principal.Designer.cs">
+      <DependentUpon>Contenedor principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlRemoto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ControlRemoto.Designer.cs">
+      <DependentUpon>ControlRemoto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetBullets.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetBullets.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetCables.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetCables.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetConectores.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetConectores.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetControlRemoto.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetControlRemoto.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetDomo.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetDomo.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetIP.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetIP.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetPaneles.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetPaneles.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetProfesional.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetProfesional.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetSensores.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetSensores.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetSirena.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetSirena.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetTeclado.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetTeclado.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Domos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Domos.Designer.cs">
+      <DependentUpon>Domos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formbase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formbase.Designer.cs">
+      <DependentUpon>Formbase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mantenimiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mantenimiento.Designer.cs">
+      <DependentUpon>mantenimiento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Paneles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Paneles.Designer.cs">
+      <DependentUpon>Paneles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Profesional.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Profesional.Designer.cs">
+      <DependentUpon>Profesional.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReperteCables.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReperteCables.Designer.cs">
+      <DependentUpon>ReperteCables.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReporteBullets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteBullets.Designer.cs">
+      <DependentUpon>ReporteBullets.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReporteConectores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteConectores.Designer.cs">
+      <DependentUpon>ReporteConectores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReporteControlRemoto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteControlRemoto.Designer.cs">
+      <DependentUpon>ReporteControlRemoto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="reporteDomo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reporteDomo.Designer.cs">
+      <DependentUpon>reporteDomo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReporteIP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteIP.Designer.cs">
+      <DependentUpon>ReporteIP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportePaneles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportePaneles.Designer.cs">
+      <DependentUpon>ReportePaneles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReporteProfesional.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteProfesional.Designer.cs">
+      <DependentUpon>ReporteProfesional.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReporteSensores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteSensores.Designer.cs">
+      <DependentUpon>ReporteSensores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReporteSirena.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteSirena.Designer.cs">
+      <DependentUpon>ReporteSirena.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReporteTeclado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteTeclado.Designer.cs">
+      <DependentUpon>ReporteTeclado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sensores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sensores.Designer.cs">
+      <DependentUpon>Sensores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Procesos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Procesos.Designer.cs">
+      <DependentUpon>Procesos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sirenas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sirenas.Designer.cs">
+      <DependentUpon>Sirenas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teclados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teclados.Designer.cs">
+      <DependentUpon>Teclados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaLogin.Designer.cs">
+      <DependentUpon>VentanaLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VentanaAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaAdm.Designer.cs">
+      <DependentUpon>VentanaAdm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaUser.Designer.cs">
+      <DependentUpon>VentanaUser.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Bullets.resx">
+      <DependentUpon>Bullets.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cables.resx">
+      <DependentUpon>Cables.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CamaraIP.resx">
+      <DependentUpon>CamaraIP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Conectores.resx">
+      <DependentUpon>Conectores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultarSensores.resx">
+      <DependentUpon>ConsultarSensores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultarBullets.resx">
+      <DependentUpon>ConsultarBullets.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultarCables.resx">
+      <DependentUpon>ConsultarCables.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultarConectores.resx">
+      <DependentUpon>ConsultarConectores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultarControlRemotos.resx">
+      <DependentUpon>ConsultarControlRemotos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultarDomos.resx">
+      <DependentUpon>ConsultarDomos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultarIP.resx">
+      <DependentUpon>ConsultarIP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultarPaneles.resx">
+      <DependentUpon>ConsultarPaneles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultarProfesional.resx">
+      <DependentUpon>ConsultarProfesional.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultarSirenas.resx">
+      <DependentUpon>ConsultarSirenas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultarTeclado.resx">
+      <DependentUpon>ConsultarTeclado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas.resx">
+      <DependentUpon>Consultas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contenedor principal.resx">
+      <DependentUpon>Contenedor principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlRemoto.resx">
+      <DependentUpon>ControlRemoto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Domos.resx">
+      <DependentUpon>Domos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formbase.resx">
+      <DependentUpon>Formbase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mantenimiento.resx">
+      <DependentUpon>mantenimiento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Paneles.resx">
+      <DependentUpon>Paneles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Profesional.resx">
+      <DependentUpon>Profesional.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReperteCables.resx">
+      <DependentUpon>ReperteCables.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportBullets.rdlc" />
+    <EmbeddedResource Include="ReportCable.rdlc" />
+    <EmbeddedResource Include="ReportConectores.rdlc" />
+    <EmbeddedResource Include="ReportControlRemoto.rdlc" />
+    <EmbeddedResource Include="ReportDomo.rdlc" />
+    <EmbeddedResource Include="ReporteBullets.resx">
+      <DependentUpon>ReporteBullets.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteConectores.resx">
+      <DependentUpon>ReporteConectores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteControlRemoto.resx">
+      <DependentUpon>ReporteControlRemoto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reporteDomo.resx">
+      <DependentUpon>reporteDomo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteIP.resx">
+      <DependentUpon>ReporteIP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportePaneles.resx">
+      <DependentUpon>ReportePaneles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteProfesional.resx">
+      <DependentUpon>ReporteProfesional.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteSensores.resx">
+      <DependentUpon>ReporteSensores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteSirena.resx">
+      <DependentUpon>ReporteSirena.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteTeclado.resx">
+      <DependentUpon>ReporteTeclado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportIP.rdlc" />
+    <EmbeddedResource Include="ReportPanel.rdlc" />
+    <EmbeddedResource Include="ReportProfesional.rdlc" />
+    <EmbeddedResource Include="ReportSensor.rdlc" />
+    <EmbeddedResource Include="ReportSirena.rdlc" />
+    <EmbeddedResource Include="ReportTeclado.rdlc" />
+    <EmbeddedResource Include="Sensores.resx">
+      <DependentUpon>Sensores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Procesos.resx">
+      <DependentUpon>Procesos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sirenas.resx">
+      <DependentUpon>Sirenas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teclados.resx">
+      <DependentUpon>Teclados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaAdm.resx">
+      <DependentUpon>VentanaAdm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaLogin.resx">
+      <DependentUpon>VentanaLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="VentanaUser.resx">
+      <DependentUpon>VentanaUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DataSetBullets.xsc">
+      <DependentUpon>DataSetBullets.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetBullets.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetBullets.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetBullets.xss">
+      <DependentUpon>DataSetBullets.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetCables.xsc">
+      <DependentUpon>DataSetCables.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetCables.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetCables.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetCables.xss">
+      <DependentUpon>DataSetCables.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetConectores.xsc">
+      <DependentUpon>DataSetConectores.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetConectores.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetConectores.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetConectores.xss">
+      <DependentUpon>DataSetConectores.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetControlRemoto.xsc">
+      <DependentUpon>DataSetControlRemoto.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetControlRemoto.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetControlRemoto.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetControlRemoto.xss">
+      <DependentUpon>DataSetControlRemoto.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetDomo.xsc">
+      <DependentUpon>DataSetDomo.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetDomo.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetDomo.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetDomo.xss">
+      <DependentUpon>DataSetDomo.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetIP.xsc">
+      <DependentUpon>DataSetIP.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetIP.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetIP.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetIP.xss">
+      <DependentUpon>DataSetIP.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetPaneles.xsc">
+      <DependentUpon>DataSetPaneles.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetPaneles.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetPaneles.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetPaneles.xss">
+      <DependentUpon>DataSetPaneles.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetProfesional.xsc">
+      <DependentUpon>DataSetProfesional.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetProfesional.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetProfesional.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetProfesional.xss">
+      <DependentUpon>DataSetProfesional.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetSensores.xsc">
+      <DependentUpon>DataSetSensores.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetSensores.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetSensores.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetSensores.xss">
+      <DependentUpon>DataSetSensores.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetSirena.xsc">
+      <DependentUpon>DataSetSirena.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetSirena.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetSirena.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetSirena.xss">
+      <DependentUpon>DataSetSirena.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetTeclado.xsc">
+      <DependentUpon>DataSetTeclado.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetTeclado.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetTeclado.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetTeclado.xss">
+      <DependentUpon>DataSetTeclado.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boltycom.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bol.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cabe.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cabezaaa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cabezassss.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pa1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pa2.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

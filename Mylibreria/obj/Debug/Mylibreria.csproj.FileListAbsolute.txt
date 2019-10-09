@@ -1,0 +1,35 @@
+D:\Nueva carpeta\WindowsFormsApplication3\Mylibreria\bin\Debug\Mylibreria.dll
+D:\Nueva carpeta\WindowsFormsApplication3\Mylibreria\bin\Debug\Mylibreria.pdb
+D:\Nueva carpeta\WindowsFormsApplication3\Mylibreria\obj\Debug\Mylibreria.csprojResolveAssemblyReference.cache
+D:\Nueva carpeta\WindowsFormsApplication3\Mylibreria\obj\Debug\Mylibreria.dll
+D:\Nueva carpeta\WindowsFormsApplication3\Mylibreria\obj\Debug\Mylibreria.pdb
+D:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\Mylibreria\bin\Debug\Mylibreria.dll
+D:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\Mylibreria\bin\Debug\Mylibreria.pdb
+D:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\Mylibreria\obj\Debug\Mylibreria.csprojResolveAssemblyReference.cache
+D:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\Mylibreria\obj\Debug\Mylibreria.dll
+D:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\Mylibreria\obj\Debug\Mylibreria.pdb
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\Mylibreria\bin\Debug\Mylibreria.dll
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\Mylibreria\bin\Debug\Mylibreria.pdb
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\Mylibreria\obj\Debug\Mylibreria.csprojResolveAssemblyReference.cache
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\Mylibreria\obj\Debug\Mylibreria.dll
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\Mylibreria\obj\Debug\Mylibreria.pdb
+H:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\Mylibreria\bin\Debug\Mylibreria.dll
+H:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\Mylibreria\bin\Debug\Mylibreria.pdb
+H:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\Mylibreria\obj\Debug\Mylibreria.csprojResolveAssemblyReference.cache
+H:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\Mylibreria\obj\Debug\Mylibreria.dll
+H:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\Mylibreria\obj\Debug\Mylibreria.pdb
+D:\Nueva carpeta\4version\WindowsFormsApplication3\Mylibreria\bin\Debug\Mylibreria.dll
+D:\Nueva carpeta\4version\WindowsFormsApplication3\Mylibreria\bin\Debug\Mylibreria.pdb
+D:\Nueva carpeta\4version\WindowsFormsApplication3\Mylibreria\obj\Debug\Mylibreria.csprojResolveAssemblyReference.cache
+D:\Nueva carpeta\4version\WindowsFormsApplication3\Mylibreria\obj\Debug\Mylibreria.dll
+D:\Nueva carpeta\4version\WindowsFormsApplication3\Mylibreria\obj\Debug\Mylibreria.pdb
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\Mylibreria\bin\Debug\Mylibreria.dll
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\Mylibreria\bin\Debug\Mylibreria.pdb
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\Mylibreria\obj\Debug\Mylibreria.csprojResolveAssemblyReference.cache
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\Mylibreria\obj\Debug\Mylibreria.dll
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\Mylibreria\obj\Debug\Mylibreria.pdb
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\Mylibreria\bin\Debug\Mylibreria.dll
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\Mylibreria\bin\Debug\Mylibreria.pdb
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\Mylibreria\obj\Debug\Mylibreria.dll
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\Mylibreria\obj\Debug\Mylibreria.pdb
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\Mylibreria\obj\Debug\Mylibreria.csprojResolveAssemblyReference.cache

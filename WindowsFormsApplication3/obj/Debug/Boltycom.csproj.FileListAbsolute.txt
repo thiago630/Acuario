@@ -1,0 +1,250 @@
+D:\Nueva carpeta\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+D:\Nueva carpeta\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+D:\Nueva carpeta\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+D:\Nueva carpeta\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Mylibreria.dll
+D:\Nueva carpeta\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Mylibreria.pdb
+D:\Nueva carpeta\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Boltycom.csprojResolveAssemblyReference.cache
+D:\Nueva carpeta\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.VentanaAdm.resources
+D:\Nueva carpeta\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.VentanaLogin.resources
+D:\Nueva carpeta\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+D:\Nueva carpeta\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.VentanaUser.resources
+D:\Nueva carpeta\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Boltycom.csproj.GenerateResource.Cache
+D:\Nueva carpeta\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+D:\Nueva carpeta\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+D:\Nueva carpeta\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Formbase.resources
+D:\Nueva carpeta\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Consultas.resources
+D:\Nueva carpeta\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Contenedor_principal.resources
+D:\Nueva carpeta\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.mantenimiento.resources
+D:\Nueva carpeta\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Procesos.resources
+D:\Nueva carpeta\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.MantenimientoCliente.resources
+D:\Nueva carpeta\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.MantenimientoProducto.resources
+H:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+H:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+H:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+H:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+H:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+H:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Mylibreria.dll
+H:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Mylibreria.pdb
+H:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Boltycom.csprojResolveAssemblyReference.cache
+H:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Consultas.resources
+H:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Contenedor_principal.resources
+H:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Formbase.resources
+H:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.mantenimiento.resources
+H:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.MantenimientoCliente.resources
+H:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.MantenimientoProducto.resources
+H:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Procesos.resources
+H:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.VentanaAdm.resources
+H:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.VentanaLogin.resources
+H:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+H:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.VentanaUser.resources
+H:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Boltycom.csproj.GenerateResource.Cache
+F:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+F:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+F:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+F:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+F:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+F:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Mylibreria.dll
+F:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Mylibreria.pdb
+F:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Boltycom.csprojResolveAssemblyReference.cache
+F:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Consultas.resources
+F:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Contenedor_principal.resources
+F:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Formbase.resources
+F:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.mantenimiento.resources
+F:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.MantenimientoCliente.resources
+F:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.MantenimientoProducto.resources
+F:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Procesos.resources
+F:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.VentanaAdm.resources
+F:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.VentanaLogin.resources
+F:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+F:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.VentanaUser.resources
+F:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Boltycom.csproj.GenerateResource.Cache
+D:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+D:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+D:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+D:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Boltycom.csprojResolveAssemblyReference.cache
+D:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Consultas.resources
+D:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Contenedor_principal.resources
+D:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Formbase.resources
+D:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.mantenimiento.resources
+D:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.MantenimientoCliente.resources
+D:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.MantenimientoProducto.resources
+D:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Procesos.resources
+D:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.VentanaAdm.resources
+D:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.VentanaLogin.resources
+D:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+D:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.VentanaUser.resources
+D:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Boltycom.csproj.GenerateResource.Cache
+D:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+D:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+D:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Mylibreria.dll
+D:\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Mylibreria.pdb
+H:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+H:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+H:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+H:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+H:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+H:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Mylibreria.dll
+H:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Mylibreria.pdb
+H:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Boltycom.csprojResolveAssemblyReference.cache
+H:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Consultas.resources
+H:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Contenedor_principal.resources
+H:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Formbase.resources
+H:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.mantenimiento.resources
+H:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.MantenimientoCliente.resources
+H:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.MantenimientoProducto.resources
+H:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Procesos.resources
+H:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.VentanaAdm.resources
+H:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.VentanaLogin.resources
+H:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+H:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.VentanaUser.resources
+H:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Boltycom.csproj.GenerateResource.Cache
+D:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+D:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+D:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+D:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+D:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+D:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Mylibreria.dll
+D:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Mylibreria.pdb
+D:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Boltycom.csprojResolveAssemblyReference.cache
+D:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Consultas.resources
+D:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Contenedor_principal.resources
+D:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Formbase.resources
+D:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.mantenimiento.resources
+D:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.MantenimientoCliente.resources
+D:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.MantenimientoProducto.resources
+D:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Procesos.resources
+D:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.VentanaAdm.resources
+D:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.VentanaLogin.resources
+D:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+D:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.VentanaUser.resources
+D:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Boltycom.csproj.GenerateResource.Cache
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Mylibreria.dll
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Mylibreria.pdb
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Boltycom.csprojResolveAssemblyReference.cache
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Consultas.resources
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Contenedor_principal.resources
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Formbase.resources
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.mantenimiento.resources
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.MantenimientoCliente.resources
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.MantenimientoProducto.resources
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Procesos.resources
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.VentanaAdm.resources
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.VentanaLogin.resources
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.VentanaUser.resources
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Boltycom.csproj.GenerateResource.Cache
+H:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ConsultarAlarmas.resources
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\2version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ConsultarAlarmas.resources
+D:\Nueva carpeta\4version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+D:\Nueva carpeta\4version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+D:\Nueva carpeta\4version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+D:\Nueva carpeta\4version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Boltycom.csprojResolveAssemblyReference.cache
+D:\Nueva carpeta\4version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ConsultarAlarmas.resources
+D:\Nueva carpeta\4version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Consultas.resources
+D:\Nueva carpeta\4version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Contenedor_principal.resources
+D:\Nueva carpeta\4version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Formbase.resources
+D:\Nueva carpeta\4version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.mantenimiento.resources
+D:\Nueva carpeta\4version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Procesos.resources
+D:\Nueva carpeta\4version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.VentanaAdm.resources
+D:\Nueva carpeta\4version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.VentanaLogin.resources
+D:\Nueva carpeta\4version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+D:\Nueva carpeta\4version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.VentanaUser.resources
+D:\Nueva carpeta\4version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Boltycom.csproj.GenerateResource.Cache
+D:\Nueva carpeta\4version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+D:\Nueva carpeta\4version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+D:\Nueva carpeta\4version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Mylibreria.dll
+D:\Nueva carpeta\4version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Mylibreria.pdb
+D:\Nueva carpeta\4version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ConsultarPaneles.resources
+D:\Nueva carpeta\4version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Paneles.resources
+D:\Nueva carpeta\4version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Sensores.resources
+D:\Nueva carpeta\4version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Teclados.resources
+D:\Nueva carpeta\4version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ConsultarTeclado.resources
+D:\Nueva carpeta\4version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ControlRemoto.resources
+D:\Nueva carpeta\4version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ConsultarControlRemotos.resources
+D:\Nueva carpeta\4version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Sirenas.resources
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Mylibreria.dll
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Mylibreria.pdb
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Boltycom.csprojResolveAssemblyReference.cache
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ConsultarAlarmas.resources
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ConsultarControlRemotos.resources
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ConsultarPaneles.resources
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ConsultarTeclado.resources
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Consultas.resources
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Contenedor_principal.resources
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ControlRemoto.resources
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Formbase.resources
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.mantenimiento.resources
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Paneles.resources
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Sensores.resources
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Procesos.resources
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Sirenas.resources
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Teclados.resources
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.VentanaAdm.resources
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.VentanaLogin.resources
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.VentanaUser.resources
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Boltycom.csproj.GenerateResource.Cache
+F:\ronaldo\ronaldo\2019\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ConsultarSirenas.resources
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Mylibreria.dll
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Mylibreria.pdb
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ConsultarControlRemotos.resources
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ConsultarPaneles.resources
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ConsultarSirenas.resources
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ConsultarTeclado.resources
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Consultas.resources
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Contenedor_principal.resources
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ControlRemoto.resources
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Formbase.resources
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.mantenimiento.resources
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Paneles.resources
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Sensores.resources
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Procesos.resources
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Sirenas.resources
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Teclados.resources
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.VentanaAdm.resources
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.VentanaLogin.resources
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.VentanaUser.resources
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Boltycom.csproj.GenerateResource.Cache
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Bullets.resources
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ConsultarBullets.resources
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Boltycom.csprojResolveAssemblyReference.cache
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Profesional.resources
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ConsultarProfesional.resources
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Domos.resources
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ConsultarDomos.resources
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CamaraIP.resources
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ConsultarIP.resources
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Cables.resources
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ConsultarCables.resources
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Conectores.resources
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ConsultarConectores.resources
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ReporteBullets.resources
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\RdlCompile.cache
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\RdlCompile.compiled
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ReportePaneles.resources
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ConsultarSensores.resources
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ReporteSensores.resources
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ReporteTeclado.resources
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ReporteControlRemoto.resources
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ReporteSirena.resources
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ReporteProfesional.resources
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.reporteDomo.resources
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ReporteIP.resources
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ReperteCables.resources
+C:\Users\RONALDO\Desktop\Ronaldo\AVANZE DE PROYECTO\5version\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ReporteConectores.resources
